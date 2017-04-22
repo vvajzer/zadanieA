@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Zoznam záverečných prác</title>
+    </head>
+    <body>
+        <div>
+            <p>Pridajte informáciu o záverečnej práci</p>
+            <table>
+                <tr><td>Projekt</td><td>Iniciály</td><td>Názov práce</td><td>Počet strán</td></tr>
+                <tr><td>MNIS06</td><td>VV</td><td>Geolokačná hra pre mobilne zariadenie</td><td>30</td><td>Geolokačné hry sú počítačové hry, ktoré spracovávajú geolokačné údaje a reagujú na informácie o geografickej polohe hráča v teréne. </td></tr>
+            </table>
+
+        </div>
+    </body>
+</html>
