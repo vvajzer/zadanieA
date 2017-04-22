@@ -10,6 +10,7 @@ and open the template in the editor.
     </head>
     <body>
         <div>
+            <p>Pridany pull</p>
             <p>Pridajte informáciu o záverečnej práci</p>
             <table>
                 <tr><td>Projekt</td><td>Iniciály</td><td>Názov práce</td><td>Počet strán</td></tr>
