@@ -1,0 +1,14 @@
+prikazy git
+git config --global user.name vvajzer
+git config --global user.email viktor.vajzer@gmail.com
+git init
+git clone url
+cd mnis01
+git add zoznam_prac.xhtml
+git status
+git commit
+git commit -m "message"
+git push
+cd
+git init mnis02
+git log
